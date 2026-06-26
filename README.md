@@ -29,10 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/piyushvermaaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushvermaaa/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/piyushvermaaa/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0344-reverse-string](https://github.com/piyushvermaaa/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0344-reverse-string](https://github.com/piyushvermaaa/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
