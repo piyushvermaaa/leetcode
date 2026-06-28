@@ -47,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/piyushvermaaa/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/piyushvermaaa/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
