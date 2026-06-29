@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/piyushvermaaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyushvermaaa/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/piyushvermaaa/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/piyushvermaaa/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [1470-shuffle-the-array](https://github.com/piyushvermaaa/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/piyushvermaaa/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/piyushvermaaa/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/piyushvermaaa/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
