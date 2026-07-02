@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/piyushvermaaa/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/piyushvermaaa/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/piyushvermaaa/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/piyushvermaaa/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/piyushvermaaa/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/piyushvermaaa/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/piyushvermaaa/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/piyushvermaaa/leetcode/tree/main/0015-3sum/) | Medium |
+| [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/piyushvermaaa/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
