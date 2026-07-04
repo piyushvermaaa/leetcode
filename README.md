@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/piyushvermaaa/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/piyushvermaaa/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/piyushvermaaa/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushvermaaa/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/piyushvermaaa/leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
