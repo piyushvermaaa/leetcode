@@ -6,12 +6,14 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
-        for i in range(0,n):
-            if nums[i] == target:
-                return i
-            elif ((nums[i] > target) and (nums[i - 1] < target)):
-                return i
-            elif (nums[i] < target) and i == n-1:
-                return i + 1
-            elif target < nums[0]:
-                return 0
+        low = 0
+        high = n - 1
+        lb = n
+        while low <= high:
+            mid = (low + high)//2
+            if nums[mid] >= target:
+                lb = mid
+                high = mid - 1
+            else:
+                low = mid + 1
+        return lb
