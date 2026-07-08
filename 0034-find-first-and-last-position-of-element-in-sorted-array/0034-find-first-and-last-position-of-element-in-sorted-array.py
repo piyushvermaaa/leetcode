@@ -1,13 +1,41 @@
 class Solution(object):
     def searchRange(self, nums, target):
 
-        l1 = []
+        def first_occurrence(nums, target):
+            low = 0
+            high = len(nums) - 1
+            ans = -1
 
-        for i in range(len(nums)):
-            if nums[i] == target:
-                l1.append(i)
+            while low <= high:
+                mid = (low + high) // 2
 
-        if len(l1) == 0:
-            return [-1, -1]
+                if nums[mid] == target:
+                    ans = mid
+                    high = mid - 1
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
 
-        return [l1[0], l1[-1]]
+            return ans
+
+        def last_occurrence(nums, target):
+            low = 0
+            high = len(nums) - 1
+            ans = -1
+
+            while low <= high:
+                mid = (low + high) // 2
+
+                if nums[mid] == target:
+                    ans = mid
+                    low = mid + 1
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+            return ans
+
+        return [first_occurrence(nums, target),
+                last_occurrence(nums, target)]
