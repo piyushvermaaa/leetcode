@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushvermaaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/piyushvermaaa/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushvermaaa/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/piyushvermaaa/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/piyushvermaaa/leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/piyushvermaaa/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/piyushvermaaa/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushvermaaa/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushvermaaa/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/piyushvermaaa/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/piyushvermaaa/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,12 +82,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushvermaaa/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushvermaaa/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushvermaaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/piyushvermaaa/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/piyushvermaaa/leetcode/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/piyushvermaaa/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushvermaaa/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Simulation
@@ -103,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
