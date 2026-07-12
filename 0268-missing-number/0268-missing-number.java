@@ -1,12 +1,14 @@
-import java.util.*;
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        for(int i = 0; i < nums.length;i++){
-            if(nums[i] != i){
-                return i;
-            }
+        int n = nums.length;
+        int esum = 0;
+        int asum = 0;
+        for(int i = 0; i < n;i++){
+            esum = esum + i;
+            asum = asum + nums[i];
         }
-        return nums.length;
+        esum = esum + n;
+        int result = esum - asum;
+        return result;
     }
 }
