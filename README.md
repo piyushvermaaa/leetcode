@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/piyushvermaaa/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/piyushvermaaa/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
