@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/piyushvermaaa/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyushvermaaa/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0344-reverse-string](https://github.com/piyushvermaaa/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/piyushvermaaa/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/piyushvermaaa/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/piyushvermaaa/leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
