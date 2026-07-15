@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/piyushvermaaa/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/piyushvermaaa/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/piyushvermaaa/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/piyushvermaaa/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/piyushvermaaa/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/piyushvermaaa/leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
