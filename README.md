@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
+| [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushvermaaa/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/piyushvermaaa/leetcode/tree/main/0048-rotate-image/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
