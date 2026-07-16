@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/piyushvermaaa/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/piyushvermaaa/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/piyushvermaaa/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0415-add-strings](https://github.com/piyushvermaaa/leetcode/tree/main/0415-add-strings/) | Easy |
 | [1025-divisor-game](https://github.com/piyushvermaaa/leetcode/tree/main/1025-divisor-game/) | Easy |
