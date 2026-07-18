@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/piyushvermaaa/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/piyushvermaaa/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/piyushvermaaa/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/piyushvermaaa/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushvermaaa/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/piyushvermaaa/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushvermaaa/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/piyushvermaaa/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/piyushvermaaa/leetcode/tree/main/0169-majority-element/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushvermaaa/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/piyushvermaaa/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
