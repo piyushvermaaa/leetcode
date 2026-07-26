@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushvermaaa/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushvermaaa/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/piyushvermaaa/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/piyushvermaaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/piyushvermaaa/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/piyushvermaaa/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyushvermaaa/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/piyushvermaaa/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0012-integer-to-roman](https://github.com/piyushvermaaa/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/piyushvermaaa/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/piyushvermaaa/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/piyushvermaaa/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/piyushvermaaa/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/piyushvermaaa/leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
