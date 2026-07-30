@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/piyushvermaaa/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/piyushvermaaa/leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/piyushvermaaa/leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/piyushvermaaa/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/piyushvermaaa/leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
