@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushvermaaa/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/piyushvermaaa/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/piyushvermaaa/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/piyushvermaaa/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/piyushvermaaa/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/piyushvermaaa/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
